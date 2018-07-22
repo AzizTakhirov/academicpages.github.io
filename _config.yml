@@ -11,9 +11,6 @@ title                    : "Aziz Takhirov"
 title_separator          : "-"
 name                     : &name "Aziz Takhirov"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +79,9 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral associate"
   location         : "440 Central Academic Building, 
-                   : University of Alberta, Edmonton, AB, 
-                   : Canada T6G 2G1"
-  employer         :
+  University of Alberta, 
+  Edmonton, AB, Canada T6G 2G1"
+  employer         : "University of Alberta"
   googlescholar    : "https://scholar.google.ca/citations?user=8ue3F4cAAAAJ&hl=en"
   email            : "takhirov@ualberta.ca"
   uri              :
@@ -94,7 +91,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -119,6 +115,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
