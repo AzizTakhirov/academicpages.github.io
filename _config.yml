@@ -8,6 +8,7 @@
 # Site Settings
 theme: jekyll-theme-leap-day
 locale                   : "en-US"
+theme: jekyll-theme-cayman
 title                    : "Aziz Takhirov"
 title_separator          : "-"
 name                     : &name "Aziz Takhirov"
