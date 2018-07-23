@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Ph.D. Mathematics,** University of Pittsburgh.
+*Dissertation title: Numerical Analysis of Flows in Pebble Bed Geometries
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2009
+
+**M.S. Mathematics,** North Dakota State University.  
+*Thesis title: Almost 1-Harmonic Function and Eigenvalue Problems for the 1-Laplace operator
+
+* 2007
+
+**B.S. Mathematics,** National University of Uzbekistan.
+*Thesis title: Divergence of the spectral expansion of the Schrödinger operator
+
+Professional appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2017-2018 **Postdoctoral fellow,** University of Alberta, Edmonton, Canada.
+2014-2017 **Visiting Assistant Professor,** Texas A&M University, College Station, Texas.
+
+Honors and awards
+======
+
+2013-2014 **Andrew Mellon Predoctoral Fellowship,** University of Pittsburgh
+2012 **SIAM Student Travel Award**
+2010 **Deparmental Fellowship,** University of Pittsburgh
+2003-2007 **National Fellowship,** National University of Uzbekistan
+
+Refereeing and reviewing experience
+======
+
+* Journal of Computational and Applied Mathematics
+* International Journal of Numerical Analysis and Modelling B.
+* Advances in Numerical Analysis.
+* Numerical Methods for Partial Differential Equations.
+
+
+Computer skills
+======
+
+* FreeFem++, Fortran 90, SFEMaNS, ParaView, MPI, Linux, MATLAB.
+
+
+Language skills
+======
+English, Russian, Turkish (basic), Uzbek.
 
 Publications
 ======
@@ -54,6 +76,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
 * Currently signed in to 43 different slack teams
