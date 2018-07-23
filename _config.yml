@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: cayman
+theme: jekyll-theme-leap-day
 locale                   : "en-US"
 title                    : "Aziz Takhirov"
 title_separator          : "-"
