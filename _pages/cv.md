@@ -63,7 +63,7 @@ Numerical Methods for Partial Differential Equations.
 Computer skills
 ======
 
-* FreeFem++, Fortran 90, SFEMaNS, ParaView, MPI, Linux, MATLAB.
+FreeFem++, Fortran 90, SFEMaNS, ParaView, MPI, Linux, MATLAB.
 
 
 
