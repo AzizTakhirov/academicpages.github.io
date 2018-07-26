@@ -11,15 +11,13 @@ redirect_from:
 
 Education
 ======
-2014 - **Ph.D. Mathematics,** University of Pittsburgh.
-
+2014  **Ph.D. Mathematics,** University of Pittsburgh.
 Dissertation title: Numerical Analysis of Flows in Pebble Bed Geometries
 
-2009 - **M.S. Mathematics,** North Dakota State University.  
+2009  **M.S. Mathematics,** North Dakota State University.  
 Thesis title: Almost 1-Harmonic Function and Eigenvalue Problems for the 1-Laplace operator
 
-2007 - **B.S. Mathematics,** National University of Uzbekistan.
-
+2007  **B.S. Mathematics,** National University of Uzbekistan.
 Thesis title: Divergence of the spectral expansion of the Schrödinger operator
 
 
