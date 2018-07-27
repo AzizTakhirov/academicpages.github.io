@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: academic
+theme                    : academic
 locale                   : "en-US"
-theme = "hugo-lodi-theme"
+theme                    : hugo-lodi-theme
 title                    : "Aziz Takhirov"
 title_separator          : "-"
 name                     : &name "Aziz Takhirov"
