@@ -4,8 +4,8 @@ excerpt: "Turbulence is the natural state of many flows. Despite its importance,
 
 ​
 
-As our understanding of the field grows and more accurate methods are developed, one challenge is incorporating these new advances into the old computing platforms.  My interest is in developing computationally efficient schemes that allow incorporating modern turbulence models into the existing turbulence and multiphysics codes.<br/><img src='/images/research1.jpg'>"
+As our understanding of the field grows and more accurate methods are developed, one challenge is incorporating these new advances into the old computing platforms.  My interest is in developing computationally efficient schemes that allow incorporating modern turbulence models into the existing turbulence and multiphysics codes.<br/><img src="/images/research1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.2732
